@@ -1,0 +1,6 @@
+{'doc_id': 1, 'text': 'hello, little world'}
+{'doc_id': 2, 'text': 'little'}
+{'doc_id': 3, 'text': 'little little little'}
+{'doc_id': 4, 'text': 'little? hello little world'}
+{'doc_id': 5, 'text': 'HELLO HELLO! WORLD...'}
+{'doc_id': 6, 'text': 'world? world... world!!! WORLD!!! HELLO!!!'}
